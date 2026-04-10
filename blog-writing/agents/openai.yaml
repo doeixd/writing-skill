@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing"
+  short_description: "Draft and edit sharp human prose"
+  default_prompt: "Use $blog-writing to draft a blog post in a calm, systems-brained voice that avoids common AI tells."
